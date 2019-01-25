@@ -16,10 +16,7 @@ namespace Naticon
 		{
 			if (month > 12 || month < 1)
 			{
-				throw new ArgumentException(string.Format(
-						"Expected month between 1 and 12 but got {0}",
-						month),
-					"month");
+				throw new ArgumentException($"Expected month between 1 and 12 but got {month}", "month");
 			}
 
 			return day > DaysInMonth(year, month);

@@ -11,6 +11,8 @@
 	<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
 	<SignAssembly>true</SignAssembly>
 	<AssemblyOriginatorKeyFile>naticon.snk</AssemblyOriginatorKeyFile>
+	<PackageLicenseUrl>https://github.com/risadams/Naticon/blob/master/LICENSE</PackageLicenseUrl>
+	<PackageReleaseNotes>* Rebranding and updated</PackageReleaseNotes>
 </PropertyGroup>
 
 </Project>

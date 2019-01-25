@@ -1,4 +1,3 @@
-using Naticon.Tags;
 using System.Collections.Generic;
 using System.Text.RegularExpressions;
 using NaticonTags;
@@ -9,7 +8,7 @@ namespace Naticon
 	{
 		private static readonly Regex[] Patterns =
 		{
-			@"[PMCE][DS]T|UTC".Compile(),
+			"[PMCE][DS]T|UTC".Compile(),
 			@"(tzminus)?\d{2}:?\d{2}".Compile()
 		};
 

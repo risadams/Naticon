@@ -4,7 +4,7 @@
 		<TargetFramework>netcoreapp2.1</TargetFramework>
 		<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
 		<LangVersion>latest</LangVersion>
-		<Configurations>Debug;Release;Profiled</Configurations>
+		<Configurations>Debug;Release</Configurations>
 		<IsPackable>false</IsPackable>
 	</PropertyGroup>
 
