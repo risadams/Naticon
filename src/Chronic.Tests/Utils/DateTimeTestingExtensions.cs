@@ -1,7 +1,7 @@
 using System;
 using Xunit;
 
-namespace Chronic.Tests
+namespace Naticron.Tests
 {
     public static class DateTimeTestingExtensions
     {

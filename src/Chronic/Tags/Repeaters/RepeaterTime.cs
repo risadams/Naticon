@@ -1,8 +1,8 @@
 using System;
 using System.Linq;
-using Chronic;
+using Naticron;
 
-namespace Chronic.Tags.Repeaters
+namespace Naticron.Tags.Repeaters
 {
     public class RepeaterTime : Repeater<Tick>
     {

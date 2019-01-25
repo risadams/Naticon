@@ -1,9 +1,9 @@
 using System;
 using System.Globalization;
-using Chronic;
-using Chronic.Tags.Repeaters;
+using Naticron;
+using Naticron.Tags.Repeaters;
 
-namespace Chronic.Tags.Repeaters
+namespace Naticron.Tags.Repeaters
 {
     public class RepeaterWeek : RepeaterUnit
     {

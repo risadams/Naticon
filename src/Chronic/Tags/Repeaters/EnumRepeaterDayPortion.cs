@@ -1,6 +1,6 @@
 using System;
 
-namespace Chronic.Tags.Repeaters
+namespace Naticron.Tags.Repeaters
 {
     public class EnumRepeaterDayPortion : RepeaterDayPortion<DayPortion>
     {

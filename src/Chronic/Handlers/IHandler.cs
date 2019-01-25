@@ -1,7 +1,7 @@
 using System.Collections.Generic;
-using Chronic.Handlers;
+using Naticron.Handlers;
 
-namespace Chronic.Handlers
+namespace Naticron.Handlers
 {
     public interface IHandler
     {

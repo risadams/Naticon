@@ -1,8 +1,8 @@
 using System;
-using Chronic;
-using Chronic.Tags.Repeaters;
+using Naticron;
+using Naticron.Tags.Repeaters;
 
-namespace Chronic.Tags.Repeaters
+namespace Naticron.Tags.Repeaters
 {
     public class RepeaterSeason : RepeaterUnit
     {

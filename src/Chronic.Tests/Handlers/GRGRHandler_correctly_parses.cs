@@ -2,7 +2,7 @@
 using Xunit;
 using Xunit.Extensions;
 
-namespace Chronic.Tests.Handlers
+namespace Naticron.Tests.Handlers
 {
     public class GRGRHandler_correctly_parses : ParsingTestsBase
     {

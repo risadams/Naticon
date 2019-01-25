@@ -1,7 +1,7 @@
 using System;
-using Chronic;
+using Naticron;
 
-namespace Chronic.Tags.Repeaters
+namespace Naticron.Tags.Repeaters
 {
     public class RepeaterDay : RepeaterUnitName
     {

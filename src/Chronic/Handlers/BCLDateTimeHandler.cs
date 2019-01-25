@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Chronic.Handlers
+namespace Naticron.Handlers
 {
     /// <summary>
     /// System.DateTime.Parse based handler. To be used as a fallback mechanism.

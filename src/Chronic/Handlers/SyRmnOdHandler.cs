@@ -1,10 +1,10 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using Chronic.Tags.Repeaters;
-using Chronic;
+using Naticron.Tags.Repeaters;
+using Naticron;
 
-namespace Chronic.Handlers
+namespace Naticron.Handlers
 {
     public class SyRmnOdHandler : IHandler
     {

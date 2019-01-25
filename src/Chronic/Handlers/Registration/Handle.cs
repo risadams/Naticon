@@ -1,6 +1,6 @@
 using System;
 
-namespace Chronic.Handlers
+namespace Naticron.Handlers
 {
     public static class Handle
     {

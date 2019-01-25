@@ -1,4 +1,4 @@
-﻿namespace Chronic.Tags
+﻿namespace Naticron.Tags
 {
     public class TimeZone : Tag<string>
     {

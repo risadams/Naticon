@@ -1,15 +1,15 @@
 ﻿using System.Reflection;
 using System.Runtime.InteropServices;
 
-[assembly: AssemblyTitle("Chronic")]
+[assembly: AssemblyTitle("Naticron")]
 [assembly: AssemblyDescription("English language date/time parser")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("NChronic")]
-[assembly: AssemblyProduct("Chronic")]
-[assembly: AssemblyCopyright("Copyright © Robert Wilczynski 2011; Ris Adams 2019")]
+[assembly: AssemblyCompany("Naticron")]
+[assembly: AssemblyProduct("Naticron")]
+[assembly: AssemblyCopyright("Copyright © nChronic 2011; Ris Adams 2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 [assembly: ComVisible(false)]
-[assembly: Guid("30e233fd-aef4-48e2-a901-a2cdb19ff6b5")]
-[assembly: AssemblyVersion("0.3.3.0")]
-[assembly: AssemblyFileVersion("0.3.3.0")]
+[assembly: Guid("38324c44-017e-4853-8705-7f5519a12d5a")]
+[assembly: AssemblyVersion("1.0.0.0")]
+[assembly: AssemblyFileVersion("1.0.0.0")]

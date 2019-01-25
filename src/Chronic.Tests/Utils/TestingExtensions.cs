@@ -3,7 +3,7 @@ using System.Globalization;
 using System.Linq;
 using Xunit;
 
-namespace Chronic.Tests
+namespace Naticron.Tests
 {
     public static class TestingExtensions
     {

@@ -1,7 +1,7 @@
 using System;
 using System.Globalization;
 
-namespace Chronic.Tags.Repeaters
+namespace Naticron.Tags.Repeaters
 {
     public class RepeaterDayName : Repeater<DayOfWeek>
     {

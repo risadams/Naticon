@@ -1,7 +1,7 @@
 using System;
 using System.Globalization;
 
-namespace Chronic
+namespace Naticron
 {
     public class Options
     {

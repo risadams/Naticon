@@ -2,10 +2,10 @@ using System;
 using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
-using Chronic.Tags.Repeaters;
-using Chronic;
+using Naticron.Tags.Repeaters;
+using Naticron;
 
-namespace Chronic.Handlers
+namespace Naticron.Handlers
 {
     public class RmnSdSyHandler : IHandler
     {

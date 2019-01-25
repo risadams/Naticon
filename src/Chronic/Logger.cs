@@ -1,7 +1,7 @@
 using System;
 using System.Diagnostics;
 
-namespace Chronic
+namespace Naticron
 {
     internal static class Logger
     {

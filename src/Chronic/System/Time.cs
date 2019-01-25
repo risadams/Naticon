@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Chronic
+namespace Naticron
 {
     public class Time
     {

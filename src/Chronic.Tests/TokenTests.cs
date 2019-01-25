@@ -1,7 +1,7 @@
-﻿using Chronic.Tests.Utils;
+﻿using Naticron.Tests.Utils;
 using Xunit;
 
-namespace Chronic.Tests
+namespace Naticron.Tests
 {
     public class TokenTests
     {

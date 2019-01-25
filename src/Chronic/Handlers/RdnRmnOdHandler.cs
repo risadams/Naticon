@@ -1,7 +1,7 @@
 using System;
-using Chronic.Tags.Repeaters;
+using Naticron.Tags.Repeaters;
 
-namespace Chronic.Handlers
+namespace Naticron.Handlers
 {
     public class RdnRmnOdHandler : IHandler
     {

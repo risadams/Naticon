@@ -1,4 +1,4 @@
-namespace Chronic
+namespace Naticron
 {
     public class Pointer : Tag<Pointer.Type>
     {

@@ -1,6 +1,6 @@
-﻿using Chronic.Tags.Repeaters;
+﻿using Naticron.Tags.Repeaters;
 
-namespace Chronic.Tags.Repeaters
+namespace Naticron.Tags.Repeaters
 {
     public abstract class RepeaterUnit : Repeater<UnitName>
     {

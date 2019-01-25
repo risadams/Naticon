@@ -1,4 +1,4 @@
-namespace Chronic
+namespace Naticron
 {
     public class Grabber : Tag<Grabber.Type>
     {

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Chronic
+namespace Naticron
 {
     public static class CollectionExtensions
     {

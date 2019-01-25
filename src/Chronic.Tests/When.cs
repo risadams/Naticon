@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace Chronic.Tests
+namespace Naticron.Tests
 {
     static class When
     {

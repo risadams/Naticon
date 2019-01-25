@@ -1,7 +1,7 @@
-﻿using Chronic.Handlers;
+﻿using Naticron.Handlers;
 using Xunit;
 
-namespace Chronic.Tests.Handlers
+namespace Naticron.Tests.Handlers
 {
     public class RepeatPatternTests
     {

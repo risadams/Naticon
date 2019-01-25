@@ -8,7 +8,7 @@
 	<RepositoryType>git</RepositoryType>
 	<PackageLicenseUrl>https://github.com/risadams/nChronic/blob/master/LICENSE</PackageLicenseUrl>
 	<Authors>Ris Adams; et. all</Authors>
-	<PackageId>nChronic</PackageId>
+	<PackageId>Naticron</PackageId>
 </PropertyGroup>
 
 </Project>

@@ -1,6 +1,6 @@
 ﻿using Xunit;
 
-namespace Chronic.Tests
+namespace Naticron.Tests
 {
     public class CollectionExtensionTests
     {

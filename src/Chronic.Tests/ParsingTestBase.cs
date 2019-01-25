@@ -2,7 +2,7 @@ using System;
 using System.Globalization;
 using System.Linq;
 
-namespace Chronic.Tests
+namespace Naticron.Tests
 {
     public abstract class ParsingTestsBase
     {

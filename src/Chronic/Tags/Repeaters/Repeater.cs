@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Chronic.Tags.Repeaters
+namespace Naticron.Tags.Repeaters
 {
     public abstract class Repeater<T> : Tag<T>, IRepeater
     {

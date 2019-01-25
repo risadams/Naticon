@@ -1,4 +1,4 @@
-namespace Chronic
+namespace Naticron
 {
     public enum EndianPrecedence
     {

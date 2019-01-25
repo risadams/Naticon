@@ -1,6 +1,6 @@
-﻿using Chronic;
+﻿using Naticron;
 
-namespace Chronic.Tests.Utils
+namespace Naticron.Tests.Utils
 {
     class DummyTag1 : Tag<string>
     {

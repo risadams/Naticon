@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Chronic.Handlers
+namespace Naticron.Handlers
 {
     public class RepeatPattern : HandlerPattern
     {

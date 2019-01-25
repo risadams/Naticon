@@ -1,7 +1,7 @@
 using System;
-using Chronic.Tags.Repeaters;
+using Naticron.Tags.Repeaters;
 
-namespace Chronic.Tags.Repeaters
+namespace Naticron.Tags.Repeaters
 {
     public class RepeaterSecond : RepeaterUnit
     {

@@ -1,8 +1,8 @@
 using System.Collections.Generic;
-using Chronic.Tags;
-using Chronic.Tags.Repeaters;
+using Naticron.Tags;
+using Naticron.Tags.Repeaters;
 
-namespace Chronic.Handlers
+namespace Naticron.Handlers
 {
     public class MyHandlerRegistry : HandlerRegistry
     {

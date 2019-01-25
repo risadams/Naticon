@@ -1,9 +1,9 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using Chronic;
+using Naticron;
 
-namespace Chronic.Handlers
+namespace Naticron.Handlers
 {
     public class SmSdSyHandler : IHandler
     {

@@ -1,9 +1,9 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using Chronic.Tags.Repeaters;
+using Naticron.Tags.Repeaters;
 
-namespace Chronic
+namespace Naticron
 {
     public class Tokenizer
     {

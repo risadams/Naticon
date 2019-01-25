@@ -1,8 +1,8 @@
 using System;
 using System.Collections.Generic;
-using Chronic.Tags.Repeaters;
+using Naticron.Tags.Repeaters;
 
-namespace Chronic.Handlers
+namespace Naticron.Handlers
 {
     public class RdnRmnSdHandler : IHandler
     {

@@ -1,7 +1,7 @@
 using System.Collections.Generic;
-using Chronic;
+using Naticron;
 
-namespace Chronic.Handlers
+namespace Naticron.Handlers
 {
     public class SmSdHandler : IHandler
     {

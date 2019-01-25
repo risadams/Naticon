@@ -1,7 +1,7 @@
 ﻿using System;
 using Xunit;
 
-namespace Chronic.Tests.Parsing
+namespace Naticron.Tests.Parsing
 {
     public class BasicExpressionsTests : ParsingTestsBase
     {
