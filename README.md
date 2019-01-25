@@ -6,7 +6,7 @@ A natural language parser Dates and Times for .Net written in C#.
 
 ## Usage ##
 
-```
+```csharp
 DateTime.Now;
   //=> Sun Aug 27 23:18:25 PDT 2006
 
