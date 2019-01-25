@@ -3,8 +3,8 @@
 <PropertyGroup>
 	<TargetFramework>netcoreapp2.1</TargetFramework>
 	<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
-	<PackageProjectUrl>https://github.com/risadams/nChronic</PackageProjectUrl>
-	<RepositoryUrl>https://github.com/risadams/nChronic</RepositoryUrl>
+	<PackageProjectUrl>https://github.com/risadams/Naticon</PackageProjectUrl>
+	<RepositoryUrl>https://github.com/risadams/Naticon</RepositoryUrl>
 	<RepositoryType>git</RepositoryType>
 	<Authors>Ris Adams; et. all</Authors>
 	<PackageId>Naticon</PackageId>
