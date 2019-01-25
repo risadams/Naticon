@@ -1,6 +1,7 @@
 using System;
+using NaticonTags.Repeaters;
 
-namespace Naticron.Tags.Repeaters
+namespace Naticon.Tags.Repeaters
 {
 	public class RepeaterSeason : RepeaterUnit
 	{

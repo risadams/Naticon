@@ -1,7 +1,7 @@
-using Naticron.Tags.Repeaters;
+using Naticon.Tags.Repeaters;
 using System.Collections.Generic;
 
-namespace Naticron.Handlers
+namespace Naticon.Handlers
 {
 	public class MyHandlerRegistry : HandlerRegistry
 	{

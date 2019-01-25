@@ -1,4 +1,6 @@
-﻿namespace Naticron.Tags
+﻿using Naticon;
+
+namespace NaticonTags
 {
 	public class TimeZone : Tag<string>
 	{

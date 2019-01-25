@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Naticron.Handlers
+namespace Naticon.Handlers
 {
 	/// <summary>System.DateTime.Parse based handler. To be used as a fallback mechanism.</summary>
 	public class BCLDateTimeHandler : IHandler

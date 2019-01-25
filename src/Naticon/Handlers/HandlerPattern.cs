@@ -1,4 +1,4 @@
-namespace Naticron.Handlers
+namespace Naticon.Handlers
 {
 	public class HandlerPattern
 	{

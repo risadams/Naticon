@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace Naticron
+namespace Naticon
 {
 	public class GrabberScanner : ITokenScanner
 	{

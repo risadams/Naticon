@@ -1,6 +1,6 @@
 using System;
 
-namespace Naticron.Tags.Repeaters
+namespace Naticon.Tags.Repeaters
 {
 	public class RepeaterDay : RepeaterUnitName
 	{

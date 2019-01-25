@@ -7,10 +7,10 @@
 	<RepositoryUrl>https://github.com/risadams/nChronic</RepositoryUrl>
 	<RepositoryType>git</RepositoryType>
 	<Authors>Ris Adams; et. all</Authors>
-	<PackageId>Naticron</PackageId>
+	<PackageId>Naticon</PackageId>
 	<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
 	<SignAssembly>true</SignAssembly>
-	<AssemblyOriginatorKeyFile>naticron.snk</AssemblyOriginatorKeyFile>
+	<AssemblyOriginatorKeyFile>naticon.snk</AssemblyOriginatorKeyFile>
 </PropertyGroup>
 
 </Project>

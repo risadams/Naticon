@@ -1,6 +1,6 @@
 using System;
 
-namespace Naticron.Handlers
+namespace Naticon.Handlers
 {
 	public class TagPattern : HandlerPattern
 	{

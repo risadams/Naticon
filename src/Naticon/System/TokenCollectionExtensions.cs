@@ -1,9 +1,10 @@
-﻿using Naticron.Tags.Repeaters;
+﻿using NaticonTags.Repeaters;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using Naticon.Tags.Repeaters;
 
-namespace Naticron
+namespace Naticon
 {
 	public static class TokenCollectionExtensions
 	{

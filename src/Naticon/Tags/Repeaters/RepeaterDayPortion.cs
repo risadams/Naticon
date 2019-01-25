@@ -1,6 +1,7 @@
 using System;
+using NaticonTags.Repeaters;
 
-namespace Naticron.Tags.Repeaters
+namespace Naticon.Tags.Repeaters
 {
 	public abstract class RepeaterDayPortion<T> : Repeater<T>, IRepeaterDayPortion
 	{
@@ -63,13 +64,12 @@ namespace Naticron.Tags.Repeaters
 		protected override Span NextSpan(Pointer.Type pointer)
 		{
 			var range = GetRange(Value);
-			DateTime rangeStart;
-			DateTime rangeEnd;
 			if (_currentSpan == null)
 			{
 				var now = Now.Value;
 				var nowSeconds = (long) Math.Truncate(now.TimeOfDay.TotalSeconds);
 
+				DateTime rangeStart;
 				if (nowSeconds < range.StartSecond)
 				{
 					if (pointer == Pointer.Type.Future)

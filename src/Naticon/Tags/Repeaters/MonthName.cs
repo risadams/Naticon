@@ -1,4 +1,4 @@
-namespace Naticron.Tags.Repeaters
+namespace Naticon.Tags.Repeaters
 {
 	public enum MonthName
 	{

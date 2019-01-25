@@ -1,6 +1,6 @@
 ﻿using System.Text.RegularExpressions;
 
-namespace Naticron
+namespace Naticon
 {
 	public static class Numerizer
 	{

@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text.RegularExpressions;
 
-namespace Naticron
+namespace Naticon
 {
 	public class ScalarScanner : ITokenScanner
 	{

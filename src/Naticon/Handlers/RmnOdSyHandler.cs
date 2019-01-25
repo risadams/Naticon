@@ -1,9 +1,9 @@
-using Naticron.Tags.Repeaters;
+using Naticon.Tags.Repeaters;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Naticron.Handlers
+namespace Naticon.Handlers
 {
 	public class RmnOdSyHandler : IHandler
 	{

@@ -1,11 +1,11 @@
 ﻿using System.Reflection;
 using System.Runtime.InteropServices;
 
-[assembly: AssemblyTitle("Naticron")]
+[assembly: AssemblyTitle("Naticon")]
 [assembly: AssemblyDescription("English language date/time parser")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Naticron")]
-[assembly: AssemblyProduct("Naticron")]
+[assembly: AssemblyCompany("Naticon")]
+[assembly: AssemblyProduct("Naticon")]
 [assembly: AssemblyCopyright("Copyright © nChronic 2011; Ris Adams 2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

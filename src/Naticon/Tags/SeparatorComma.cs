@@ -1,4 +1,4 @@
-namespace Naticron
+namespace Naticon
 {
 	public class SeparatorComma : Separator
 	{

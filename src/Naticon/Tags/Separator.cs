@@ -1,4 +1,4 @@
-namespace Naticron
+namespace Naticon
 {
 	public class Separator : Tag<Separator.Type>
 	{

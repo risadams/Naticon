@@ -1,8 +1,9 @@
-using Naticron.Tags;
+using Naticon.Tags;
 using System.Collections.Generic;
 using System.Text.RegularExpressions;
+using NaticonTags;
 
-namespace Naticron
+namespace Naticon
 {
 	public class TimeZoneScanner : ITokenScanner
 	{

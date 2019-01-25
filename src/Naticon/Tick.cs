@@ -1,4 +1,4 @@
-﻿namespace Naticron
+﻿namespace Naticon
 {
 	public class Tick
 	{

@@ -1,4 +1,7 @@
-﻿namespace Naticron.Tags.Repeaters
+﻿using Naticon;
+using Naticon.Tags.Repeaters;
+
+namespace NaticonTags.Repeaters
 {
 	public abstract class Repeater<T> : Tag<T>, IRepeater
 	{

@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace Naticron.Handlers
+namespace Naticon.Handlers
 {
 	public class RHandler : IHandler
 	{

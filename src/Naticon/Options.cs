@@ -1,6 +1,6 @@
 using System;
 
-namespace Naticron
+namespace Naticon
 {
 	public class Options
 	{
