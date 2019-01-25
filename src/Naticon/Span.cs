@@ -23,16 +23,8 @@ namespace Naticon
 
 		public Span Subtract(long seconds) => Add(-seconds);
 
-		public override string ToString() => string.Format("({0} - {1})", Start, End);
+		public override string ToString() => $"({Start} - {End})";
 
-		public DateTime ToTime()
-		{
-			if (Width > 1)
-			{
-				return Start.Value.AddSeconds((double) Width / 2);
-			}
-
-			return Start.Value;
-		}
+		public DateTime ToTime() => Width > 1 ? Start.Value.AddSeconds((double) Width / 2) : Start.Value;
 	}
 }

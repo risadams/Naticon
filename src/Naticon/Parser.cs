@@ -107,9 +107,7 @@ namespace Naticon
 			Logger.Log(handler.ToString);
 			if (handler.BaseHandler == null)
 			{
-				throw new InvalidOperationException(string.Format(
-					"No base handler found on complex handler: {0}.",
-					handler));
+				throw new InvalidOperationException($"No base handler found on complex handler: {handler}.");
 			}
 
 			return handler.BaseHandler.Handle(tokens, options);

@@ -29,8 +29,7 @@ namespace Naticon
 			{"one", "1"},
 			{"two", "2"},
 			{"three", "3"},
-			{@"four(\W|$)", "4$1"},
-			// The weird regex is so that it matches four but not fourty
+			{@"four(\W|$)", "4$1"}, // The weird regex is so that it matches four but not fourty
 			{"five", "5"},
 			{@"six(\W|$)", "6$1"},
 			{@"seven(\W|$)", "7$1"},

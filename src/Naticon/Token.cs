@@ -45,7 +45,7 @@ namespace Naticon
 
 		public override string ToString()
 		{
-			return string.Format("{0} [{1}]", Value, string.Join(",", _tags.Select(tag => tag.ToString())));
+			return $"{Value} [{string.Join(",", _tags.Select(tag => tag.ToString()))}]";
 		}
 
 		public void Untag<T>()
@@ -54,9 +54,6 @@ namespace Naticon
 			_tags.RemoveAll(tag => tag is T);
 		}
 
-		internal bool IsTaggedAs(Type type)
-		{
-			return _tags.Any(tag => type.IsAssignableFrom(tag.GetType()));
-		}
+		internal bool IsTaggedAs(Type type) => _tags.Any(type.IsInstanceOfType);
 	}
 }
